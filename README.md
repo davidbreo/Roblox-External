@@ -1,9 +1,9 @@
 # Roblox-External
-Working roblox external bypassing every anticheat, also works on web version of roblox - 64bit recommended.
+# Working roblox external bypassing every anticheat, also works on web version of roblox - 64bit recommended.
 
-HOW TO USE IT?
+# HOW TO USE IT?
 
-YOU HAVE TO DOWNLOAD NANOEXTERNAL.EXE.
+<b>YOU HAVE TO DOWNLOAD NANOEXTERNAL.EXE.<b>
 
 AFTER YOU DOWNLOAD, OPEN IT UP BUT BEFORE OPENING YOU HAVE TO BE IN ROBLOX.
 
